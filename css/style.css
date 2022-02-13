@@ -1,0 +1,205 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+header{
+    height: 175px;
+    padding: 10px;
+    background-color:rgb(68, 206, 224);
+}
+
+h1{
+    position: absolute;
+    padding: 10px;
+    float: center;
+    margin-left: 2%;
+    margin-top: 50px;
+    font-family: 'Alfa Slab One', cursive;
+    color: #4b07a5;
+}
+
+.menu{
+    width: auto;
+    float: right;
+    margin-left: auto;
+}
+
+li{
+    display: inline-block;
+    padding: 30px 30px;
+}
+
+a {
+     text-align: center;
+     color: #000;
+     text-decoration: none;
+     font-family: 'Open Sans', sans-serif;
+     font-size: 1.2w;
+}
+
+.logo{
+    float:top;
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+    margin: left: 0%;
+    width: 100px;
+    height: 100px;
+}
+
+.hero_image{
+    float:right;
+    margin-block: 100px;
+    margin: center: 50px;
+    width: 300px;
+    height: 300px;
+}
+
+.footer {
+    clear: both;
+    position: relative;
+    height: 1000%;
+    margin-top: 900px;
+    padding: 10px;
+    background-color:rgb(68, 206, 224);
+}
+
+ul li{
+    display: inline-block;
+    padding: 30px 30px;
+}
+
+.flex-container{
+    display:flex;
+    width:90%;
+    padding:30px;
+    margin:50px;
+    flex-direction:center;
+    flex-wrap;
+    flex-flow;
+    justify-content;
+    align-items:center;
+    align-content;
+    background-color: rgb(68, 206, 224);
+}
+h2{
+    position:relative;
+    padding: 0px;
+    float: right;
+    margin-block: -105px;
+    margin-right: 599px;
+    font-family: 'Alfa Slab One', cursive;
+    color: #000000;
+}
+.web_development{
+    float:center;
+    margin-block: 10px;
+    margin-left: 450px;
+    width: 100px;
+    height: 100px;
+}
+h3{
+    position:relative;
+    padding: 0px;
+    float: right;
+    margin-block: 7px;
+    margin-right: 599px;
+    font-family: 'Alfa Slab One', cursive;
+    color: #000000;
+}
+
+p{
+    position:relative;
+    padding: 0px;
+    float: right;
+    margin-block: 0px;
+    margin-right: 599px;
+    font-family: 'sans serif';
+    color: #000000; 
+}
+
+h4{
+    position:relative;
+    padding: 10px;
+    float: right;
+    margin-block: 10px;
+    margin-right: 599px;
+    font-family: 'Alfa Slab One', cursive;
+    color: #000000;
+}
+
+section{
+    height: 50px;
+    width: 90%;
+    margin: 98px;
+    padding: 5px;
+    background-color: rgb(68, 206, 224);
+}
+
+h5{
+    position:relative;
+    padding: 10px;
+    float: right;
+    margin-block: 50px;
+    margin-right: 599px;
+    font-family: 'Alfa Slab One', cursive;
+    color: #000000;
+}
+
+.responsive_webdesign{
+    float:center;
+    margin-block: 10px;
+    margin-left: 450px;
+    width: 100px;
+    height: 100px;
+}
+
+.p1{
+    position:relative;
+    padding: 0px;
+    float: right;
+    margin-block:0px;
+    margin-right:599px;
+    font-family: 'sans serif';
+    color: #000000;
+}
+
+h6{
+    position:relative;
+    padding: 10px;
+    float: right;
+    margin-block: 150px;
+    margin-right: 599px;
+    font-family: 'Alfa Slab One', cursive;
+    color: #000000;
+}
+
+.responsive_webdesign-2{
+    float:center;
+    margin-block: 50px;
+    margin-left: 450px;
+    width: 100px;
+    height: 100px;
+}
+
+.p2{
+    position:relative;
+    padding: 0px;
+    float: right;
+    margin-block: 0px;
+    margin-right: 599px;
+    font-family: 'sans serif';
+    color: #000000;
+}
+
+h7{
+    position:relative;
+    padding: 10px;
+    float: right;
+    margin-block: 100px;
+    margin-right: 599px;
+    font-family: 'sans serif';
+    color: #000000; 
+}
