@@ -201,5 +201,13 @@ h7{
     margin-block: 100px;
     margin-right: 599px;
     font-family: 'sans serif';
-    color: #000000; 
+    color: white;
+    background-color:black;
+}
+
+h7:hover {
+    background-color: blue;
+    cursor: pointer;
+    transform: scale(1.3);
+    filter:drop-shadow(7px 7px 7px black);
 }
